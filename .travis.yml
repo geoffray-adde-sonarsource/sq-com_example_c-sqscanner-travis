@@ -5,7 +5,7 @@ addons:
   sonarcloud:
     organization: "geoffray-adde-sonarsource"
     token:
-      secure: "2f0b4e79367b4a75009ff3065c872c1d827f84fe"
+      secure: "SF3H5sdj3ZyFuvL+Gj6Wp+mUObj5kuhhTdGlTKfyWN/B/fAPwmdaHi2qgCFkLOm8HAchEzVIg/I189tWyk2ac1t+aK9+SJViFJeFTBHCXnfPN/jN2+MYmUhbFUJJhCXXDV/RtbXNzU/165DHL4nuZE9OWJ+8hdBuisicnKLCO+nF4Gc8hbw4EOTKn4Zvx59waQGrq2fJirIbcRmvO+zUMy60491ymoz533sP4AY+1AUhOyoS0rT6Te9zzYBA7Vom6Oq5UCjy9oMK6iZ6w8xyvQXOoNuhYCdbDJNvvJUZxdDxL8cGQCGrAJ91p5cOg2/1IOSPzP9OpixRsPkT6eMN1mYDXUwMJMrQ9UrzdzXxjlNU1LqgTr5YH4qE1IKWpwr5ssfRIyanVVO56oIGLa3+diFYiTKKaMSttKcoFDIQcf6dD64hUWfh3mDms2DJnpD3Vbb3LYvQuliDzLeU96IgMK/NmKdjKyhdYTFY4ZfA/VCl8x9kfWE8YxZ3IJ/BG5oX5LzZiifMOIGTsofRBU0K9iYUapg6TUrv2OoxsI0j1ehmLSUd29qNO9WX3pobD5x98DoqJjKL5ycnk4U22baVvudrUt7NXoybxw6fet7kb20qcfyfBPfHog7g/lGuCHEkdbmeJPcbwSVR+d/EKCVQUpP7RF8OB2zI0GEUANM6hFs="
 
 script:
   - make clean
